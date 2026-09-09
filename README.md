@@ -1,5 +1,14 @@
-# Hi 👋, I'm Thilani Dilmani
-### Undergraduate | Machine Learning & AI Enthusiast | Building with Data
+
+<h1 align="center">Hi 👋, I'm Thilani Dilmani</h1>
+<h3 align="center">Undergraduate | Machine Learning & AI Enthusiast | Building with Data</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Data+Science+Undergraduate;Exploring+Machine+Learning+%26+AI;Building+data-driven+solutions;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
+</p>
 
 ---
 
@@ -49,23 +58,33 @@
 
 ## 📌 Featured Projects
 
-### 🔍 [Project Name]
-[One or two lines describing what it does, the ML technique used, and the outcome/impact.]
+### 🇱🇰 [Public Pulse Sri Lanka](https://github.com/ThilaniDilmani/public-pulse-srilanka)
+An NLP-driven research pipeline analyzing multilingual political discourse (Sinhala, English & Singlish) from Sri Lankan YouTube commentary — with automated data validation and multi-layer processing. Built with Jupyter Notebook.
 
-### 📊 [Project Name]
-[One or two lines describing the project — dataset used, model built, results.]
+### 🏥 SmartCare AI
+An AI-powered healthcare support project focused on applying machine learning to improve care delivery and decision-making. *(Update this link once the repo is public: `github.com/ThilaniDilmani/<repo-name>`)*
 
-### 🤖 [Project Name]
-[One or two lines describing the project.]
+### 🧠 OGBN Classifier
+A graph neural network project for node classification on the OGBN (Open Graph Benchmark) dataset, exploring GNN-based approaches for large-scale graph learning. *(Update this link once the repo is public: `github.com/ThilaniDilmani/<repo-name>`)*
 
-*(List your best 2–4 projects — quality over quantity. Link each repo.)*
+*(Add project thumbnails or GIFs of your app in action for extra visual impact!)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ThilaniDilmani&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThilaniDilmani&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThilaniDilmani&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilaniDilmani&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilaniDilmani&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThilaniDilmani&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -79,11 +98,19 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](your-portfolio-url)
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThilaniDilmani&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</p>
+
 ### ✨ Quote I Believe In
 > "The best way to predict the future is to build it."
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
