@@ -58,16 +58,14 @@
 
 ## 📌 Featured Projects
 
-### 🇱🇰 [Public Pulse Sri Lanka](https://github.com/ThilaniDilmani/public-pulse-srilanka)
+### Public Pulse Sri Lanka (https://github.com/ThilaniDilmani/public-pulse-srilanka)
 An NLP-driven research pipeline analyzing multilingual political discourse (Sinhala, English & Singlish) from Sri Lankan YouTube commentary — with automated data validation and multi-layer processing. Built with Jupyter Notebook.
 
-### 🏥 SmartCare AI
-An AI-powered healthcare support project focused on applying machine learning to improve care delivery and decision-making. *(Update this link once the repo is public: `github.com/ThilaniDilmani/<repo-name>`)*
+### 🏥 SmartCare AI (https://github.com/ThilaniDilmani/SmartCare-Hospital-AI.git)
+An AI-powered healthcare support project focused on applying machine learning to improve care delivery and decision-making. 
 
-### 🧠 OGBN Classifier
-A graph neural network project for node classification on the OGBN (Open Graph Benchmark) dataset, exploring GNN-based approaches for large-scale graph learning. *(Update this link once the repo is public: `github.com/ThilaniDilmani/<repo-name>`)*
-
-*(Add project thumbnails or GIFs of your app in action for extra visual impact!)*
+### 🧠 OGBN Node Classifier (https://github.com/Thrithwaka/ogbn-arxiv-node-classification.git)
+A graph neural network project for node classification on the OGBN (Open Graph Benchmark) dataset, exploring GNN-based approaches for large-scale graph learning. 
 
 ---
 
@@ -98,7 +96,7 @@ A graph neural network project for node classification on the OGBN (Open Graph B
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)[https://www.linkedin.com/in/thilani-senarath]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](your-portfolio-url)
 
