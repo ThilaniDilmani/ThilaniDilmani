@@ -72,21 +72,10 @@ A graph neural network project for node classification on the OGBN (Open Graph B
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sooty-eight.vercel.app/api?username=ThilaniDilmani&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-sooty-eight.vercel.app/api/top-langs/?username=ThilaniDilmani&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilaniDilmani&theme=radical" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-profile-trophy-nu.vercel.app/?username=ThilaniDilmani&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilaniDilmani&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThilaniDilmani&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 ---
 
