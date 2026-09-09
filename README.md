@@ -82,9 +82,12 @@ A graph neural network project for node classification on the OGBN (Open Graph B
 
 ## 🏅 Certifications
 
-- ✅ [Certification Name — Issuer]
-- ✅ [Certification Name — Issuer]
-- ✅ [Certification Name — Issuer]
+- ✅ SQL Basic Certification — HackerRank
+- ✅ SQL Intermediate Certification — HackerRank
+- ✅ SQL Advanced Certification— HackerRank
+- ✅ Introduction to Tableau Certification
+- ✅ Beginners Power BI Certification 
+
 
 ---
 
@@ -101,7 +104,7 @@ A graph neural network project for node classification on the OGBN (Open Graph B
 </p>
 
 ### ✨ Quote I Believe In
-> "The best way to predict the future is to build it."
+> "The goal is to turn data into information, and information into insight."
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
