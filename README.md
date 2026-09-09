@@ -81,6 +81,13 @@ A graph neural network project for node classification on the OGBN (Open Graph B
 <p align="center">
   <img src="https://github-profile-trophy-nu.vercel.app/?username=ThilaniDilmani&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilaniDilmani&theme=radical" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThilaniDilmani&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
 ---
 
 ## 🏅 Certifications
