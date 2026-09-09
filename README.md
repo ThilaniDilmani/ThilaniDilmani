@@ -23,6 +23,7 @@
 ---
 
 ## 🚀 About Me
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
 
 - 🎓 Undergraduate at Sri Lanka Technology Campus
 - 📚 Reading BSc (Hons) Data Science
@@ -116,6 +117,12 @@ A graph neural network project for node classification on the OGBN (Open Graph B
 ### ✨ Quote I Believe In
 > "The goal is to turn data into information, and information into insight."
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=2E86C1&center=true&vCenter=true&width=700&lines=%22Without+data%2C+you're+just+another+person+with+an+opinion.%22;%22In+God+we+trust.+All+others+must+bring+data.%22;%22AI+is+the+new+electricity.%22+%E2%80%94+Andrew+Ng;%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Rotating Quotes" />
+</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
