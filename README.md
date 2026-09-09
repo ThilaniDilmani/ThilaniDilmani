@@ -10,15 +10,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
 </p>
 
-<h1 align="center">Hi 👋, I'm Thilani Dilmani</h1>
-<h3 align="center">Undergraduate | Machine Learning & AI Enthusiast | Building with Data</h3>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Data+Science+Undergraduate;Exploring+Machine+Learning+%26+AI;Building+data-driven+solutions;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
-</p>
 
 ---
 
